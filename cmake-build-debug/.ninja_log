@@ -1,0 +1,7 @@
+# ninja log v5
+15	419	7341518754800386	CMakeFiles/project.dir/colours.c.obj	2d8b373c708a2465
+8	145	7341520460077612	CMakeFiles/project.dir/game.c.obj	c0e7265593c63e88
+30	114	7341520236261417	CMakeFiles/project.dir/ghost.c.obj	1c5a6bbc2ef18187
+6	1655	7341582048798114	CMakeFiles/project.dir/apsc142project.c.obj	8ad9e98fc9f9e476
+32	439	7341518755058563	CMakeFiles/project.dir/map.c.obj	4b4238048f6e1575
+1656	1959	7341582053014519	project.exe	d30497cdb8515515

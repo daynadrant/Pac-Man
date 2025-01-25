@@ -1,0 +1,4 @@
+C:/Users/Dayna/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/Dayna/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/Dayna/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dayna/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
