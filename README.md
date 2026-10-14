@@ -53,7 +53,3 @@ Run it in a real terminal. The game reads single key presses and uses text colou
 | `colours.c` / `colours.h` | Terminal colours and key reading (provided) |
 | `defines.h` | Shared constants (map symbols, keys, ghost count) |
 | `tests.cpp` | Unit tests using [doctest](https://github.com/doctest/doctest) (`doctest.h` is bundled) |
-
-## Tests
-
-`tests.cpp` has a `tests` CMake target. As the repo stands, that target doesn't link, because the globals it needs (`num_dots`, `tempChar`) are defined in `apsc142project.c`, which the test build leaves out. Defining them in `tests.cpp`, next to the existing `map` and `dot_map`, fixes it.
